@@ -12,6 +12,6 @@ Dependencies:
 pygame
 
 Controls:
-1. [UP key]/[SPACEBAR] - jump
-2. [DOWN key] - duck
+1. [UP ARROW]/[SPACEBAR] - jump
+2. [DOWN ARROW] - duck
 3. [ESC] - to exit
