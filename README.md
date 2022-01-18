@@ -11,6 +11,9 @@ Developers:
 Dependencies:
 pygame
 
+How to run:
+1. Run main.py
+
 Controls:
 1. [UP ARROW]/[SPACEBAR] - jump
 2. [DOWN ARROW] - duck
