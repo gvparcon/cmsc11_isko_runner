@@ -2,11 +2,11 @@
 Final Project for CMSC11
 
 Developers:
-Gallego, Chester Ken
-Amodia, Kurt Matthew
-Depra, Trixie Anne
-Gambito, Ervene Jhay
-Garcia, Ellabelle
+1. Gallego, Chester Ken
+2. Amodia, Kurt Matthew
+3. Depra, Trixie Anne
+4. Gambito, Ervene Jhay
+5. Garcia, Ellabelle
 
 Dependencies:
 pygame
